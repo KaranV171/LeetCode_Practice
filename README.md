@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/KaranV171/LeetCode_Practice/tree/master/0326-power-of-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0454-4sum-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0454-4sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
