@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0454-4sum-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0454-4sum-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KaranV171/LeetCode_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/KaranV171/LeetCode_Practice/tree/master/0173-binary-search-tree-iterator) |
+## Sorting
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
