@@ -9,12 +9,12 @@ class Solution {
             }
         }
 
-        HashMap<Integer,Integer> mp = new HashMap<>();
+        Set<Integer> mp = new HashSet<>();
         for(int num : nums){
-            mp.put(num,1);
+            mp.add(num);
         }
 
-        while(mp.containsKey(sum)){
+        while(mp.contains(sum)){
             sum++;
         }
         return sum;
