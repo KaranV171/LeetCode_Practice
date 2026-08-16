@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KaranV171/LeetCode_Practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/KaranV171/LeetCode_Practice/tree/master/0326-power-of-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KaranV171/LeetCode_Practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/KaranV171/LeetCode_Practice/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
