@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KaranV171/LeetCode_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/KaranV171/LeetCode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KaranV171/LeetCode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaranV171/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaranV171/LeetCode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/KaranV171/LeetCode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Enumeration
 |  |
 | ------- |
