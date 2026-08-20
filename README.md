@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KaranV171/LeetCode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KaranV171/LeetCode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
