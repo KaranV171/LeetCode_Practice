@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KaranV171/LeetCode_Practice/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/KaranV171/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/KaranV171/LeetCode_Practice/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0454-4sum-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0454-4sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaranV171/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1386-cinema-seat-allocation](https://github.com/KaranV171/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
