@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaranV171/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaranV171/LeetCode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaranV171/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaranV171/LeetCode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
