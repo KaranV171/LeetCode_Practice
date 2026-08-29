@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/KaranV171/LeetCode_Practice/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaranV171/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaranV171/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
