@@ -10,7 +10,7 @@ class Solution {
         }
 
         List<List<String>> groups = new ArrayList<>(mp.values());
-        groups.sort((a,b)->a.get(0).compareTo(b.get(0)));
+        // groups.sort((a,b)->a.get(0).compareTo(b.get(0)));
         return groups;
 
     }
