@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KaranV171/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## DP on Trees
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KaranV171/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaranV171/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/KaranV171/LeetCode_Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaranV171/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/KaranV171/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaranV171/LeetCode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/KaranV171/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search Tree
 |  |
