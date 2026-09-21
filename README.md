@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KaranV171/LeetCode_Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KaranV171/LeetCode_Practice/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/KaranV171/LeetCode_Practice/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/KaranV171/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaranV171/LeetCode_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KaranV171/LeetCode_Practice/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KaranV171/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaranV171/LeetCode_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
