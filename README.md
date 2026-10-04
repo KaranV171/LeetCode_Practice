@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/KaranV171/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaranV171/LeetCode_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/KaranV171/LeetCode_Practice/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaranV171/LeetCode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KaranV171/LeetCode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/KaranV171/LeetCode_Practice/tree/master/3870-count-commas-in-range) |
