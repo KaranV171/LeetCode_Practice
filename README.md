@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KaranV171/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## DP on Trees
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KaranV171/LeetCode_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/KaranV171/LeetCode_Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KaranV171/LeetCode_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KaranV171/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/KaranV171/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
