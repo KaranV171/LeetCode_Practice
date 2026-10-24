@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/KaranV171/LeetCode_Practice/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/KaranV171/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaranV171/LeetCode_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2409-count-days-spent-together](https://github.com/KaranV171/LeetCode_Practice/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/KaranV171/LeetCode_Practice/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KaranV171/LeetCode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/KaranV171/LeetCode_Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KaranV171/LeetCode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
