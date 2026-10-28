@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KaranV171/LeetCode_Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KaranV171/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/KaranV171/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/KaranV171/LeetCode_Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/KaranV171/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaranV171/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/KaranV171/LeetCode_Practice/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/KaranV171/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/KaranV171/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KaranV171/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bit Manipulation
 |  |
@@ -366,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/1901-find-a-peak-element-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KaranV171/LeetCode_Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
