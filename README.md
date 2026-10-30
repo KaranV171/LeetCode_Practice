@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KaranV171/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/KaranV171/LeetCode_Practice/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaranV171/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0922-sort-array-by-parity-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KaranV171/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0443-string-compression](https://github.com/KaranV171/LeetCode_Practice/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
