@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KaranV171/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/KaranV171/LeetCode_Practice/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KaranV171/LeetCode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/KaranV171/LeetCode_Practice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KaranV171/LeetCode_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaranV171/LeetCode_Practice/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/KaranV171/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/KaranV171/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KaranV171/LeetCode_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0454-4sum-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KaranV171/LeetCode_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
