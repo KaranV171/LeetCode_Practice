@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KaranV171/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/KaranV171/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/KaranV171/LeetCode_Practice/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/KaranV171/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KaranV171/LeetCode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0454-4sum-ii) |
 | [0733-flood-fill](https://github.com/KaranV171/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0922-sort-array-by-parity-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0994-rotting-oranges](https://github.com/KaranV171/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KaranV171/LeetCode_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1386-cinema-seat-allocation](https://github.com/KaranV171/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KaranV171/LeetCode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/KaranV171/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/KaranV171/LeetCode_Practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/KaranV171/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Bubble Sort
 |  |
