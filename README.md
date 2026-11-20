@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KaranV171/LeetCode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KaranV171/LeetCode_Practice/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KaranV171/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KaranV171/LeetCode_Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KaranV171/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KaranV171/LeetCode_Practice/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/KaranV171/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/KaranV171/LeetCode_Practice/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/KaranV171/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/KaranV171/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/KaranV171/LeetCode_Practice/tree/master/0994-rotting-oranges) |
