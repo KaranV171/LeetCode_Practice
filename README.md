@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KaranV171/LeetCode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## DP on Trees
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KaranV171/LeetCode_Practice/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KaranV171/LeetCode_Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/KaranV171/LeetCode_Practice/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KaranV171/LeetCode_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/KaranV171/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KaranV171/LeetCode_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KaranV171/LeetCode_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search Tree
 |  |
 | ------- |
